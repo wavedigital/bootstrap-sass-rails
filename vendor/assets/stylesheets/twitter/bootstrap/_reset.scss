@@ -109,7 +109,7 @@ input::-moz-focus-inner { // Inner padding and border oddities in FF3/4
   border: 0;
 }
 button,
-input[type="button"],
+html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   cursor: pointer; // Cursors on all buttons applied consistently
